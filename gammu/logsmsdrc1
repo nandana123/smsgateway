@@ -1,0 +1,86 @@
+Wed 2014/08/06 20:14:58 gammu-smsd[6236]: Warning: No PIN code in C:\xampp\htdocs\gammu\smsdrc1 file
+Wed 2014/08/06 20:14:58 gammu-smsd[6236]: Connected to Database: gammu on localhost
+Wed 2014/08/06 20:14:58 gammu-smsd[6236]: Created Windows RW shared memory at 004D0000
+Wed 2014/08/06 20:14:58 gammu-smsd[6236]: Starting phone communication...
+Wed 2014/08/06 20:15:02 gammu-smsd[6236]: Communication established
+Wed 2014/08/06 20:19:35 gammu-smsd[6236]: Error getting send status of message: Unknown error. (UNKNOWN[27])
+Wed 2014/08/06 20:19:40 gammu-smsd[6236]: Read 4 messages
+Wed 2014/08/06 20:44:48 gammu-smsd[6236]: Read 1 messages
+Thu 2014/08/07 03:45:44 gammu-smsd[6236]: Error getting SMS status: No response in specified timeout. Probably phone not connected. (TIMEOUT[14])
+Thu 2014/08/07 03:46:22 gammu-smsd[6236]: Error getting SMS status: No response in specified timeout. Probably phone not connected. (TIMEOUT[14])
+Thu 2014/08/07 03:47:00 gammu-smsd[6236]: Error getting SMS status: No response in specified timeout. Probably phone not connected. (TIMEOUT[14])
+Thu 2014/08/07 03:47:38 gammu-smsd[6236]: Error getting SMS status: No response in specified timeout. Probably phone not connected. (TIMEOUT[14])
+Thu 2014/08/07 03:48:16 gammu-smsd[6236]: Error getting SMS status: No response in specified timeout. Probably phone not connected. (TIMEOUT[14])
+Thu 2014/08/07 03:48:54 gammu-smsd[6236]: Error getting SMS status: No response in specified timeout. Probably phone not connected. (TIMEOUT[14])
+Thu 2014/08/07 03:49:32 gammu-smsd[6236]: Error getting SMS status: No response in specified timeout. Probably phone not connected. (TIMEOUT[14])
+Thu 2014/08/07 07:59:08 gammu-smsd[6236]: Error getting SMS status: No response in specified timeout. Probably phone not connected. (TIMEOUT[14])
+Thu 2014/08/07 07:59:52 gammu-smsd[6236]: Error getting SMS status: No response in specified timeout. Probably phone not connected. (TIMEOUT[14])
+Thu 2014/08/07 08:03:16 gammu-smsd[11600]: Warning: No PIN code in C:\xampp\htdocs\gammu\smsdrc1 file
+Thu 2014/08/07 08:03:18 gammu-smsd[11600]: Connected to Database: gammu on localhost
+Thu 2014/08/07 08:03:18 gammu-smsd[11600]: Created Windows RW shared memory at 005A0000
+Thu 2014/08/07 08:03:18 gammu-smsd[11600]: Starting phone communication...
+Thu 2014/08/07 08:03:22 gammu-smsd[11600]: Communication established
+Thu 2014/08/07 08:03:32 gammu-smsd[11280]: Warning: No PIN code in C:\xampp\htdocs\gammu\smsdrc1 file
+Thu 2014/08/07 08:03:32 gammu-smsd[11280]: Connected to Database: gammu on localhost
+Thu 2014/08/07 08:03:32 gammu-smsd[11280]: Created Windows RW shared memory at 003D0000
+Thu 2014/08/07 08:03:32 gammu-smsd[11280]: Starting phone communication...
+Thu 2014/08/07 08:03:32 gammu-smsd[11280]: Can't open device: Error opening device. Unknown, busy or no permissions. (DEVICEOPENERROR[2])
+Thu 2014/08/07 08:03:32 gammu-smsd[11280]: Failed to start SMSD, Error 32: The process cannot access the file because it is being used by another process.
+
+
+Thu 2014/08/07 08:03:40 gammu-smsd[10032]: Warning: No PIN code in C:\xampp\htdocs\gammu\smsdrc1 file
+Thu 2014/08/07 08:03:40 gammu-smsd[10032]: Connected to Database: gammu on localhost
+Thu 2014/08/07 08:03:40 gammu-smsd[10032]: Created Windows RW shared memory at 002F0000
+Thu 2014/08/07 08:03:40 gammu-smsd[10032]: Starting phone communication...
+Thu 2014/08/07 08:03:45 gammu-smsd[10032]: Communication established
+Thu 2014/08/07 08:04:12 gammu-smsd[10032]: Read 1 messages
+Thu 2014/08/07 08:07:00 gammu-smsd[10032]: Error getting SMS status: No response in specified timeout. Probably phone not connected. (TIMEOUT[14])
+Thu 2014/08/07 08:07:38 gammu-smsd[10032]: Error getting SMS status: No response in specified timeout. Probably phone not connected. (TIMEOUT[14])
+Thu 2014/08/07 08:08:16 gammu-smsd[10032]: Error getting SMS status: No response in specified timeout. Probably phone not connected. (TIMEOUT[14])
+Thu 2014/08/07 08:08:54 gammu-smsd[10032]: Error getting SMS status: No response in specified timeout. Probably phone not connected. (TIMEOUT[14])
+Thu 2014/08/07 08:09:32 gammu-smsd[10032]: Error getting SMS status: No response in specified timeout. Probably phone not connected. (TIMEOUT[14])
+Thu 2014/08/07 08:10:10 gammu-smsd[10032]: Error getting SMS status: No response in specified timeout. Probably phone not connected. (TIMEOUT[14])
+Thu 2014/08/07 08:10:48 gammu-smsd[10032]: Error getting SMS status: No response in specified timeout. Probably phone not connected. (TIMEOUT[14])
+Thu 2014/08/07 08:11:26 gammu-smsd[10032]: Error getting SMS status: No response in specified timeout. Probably phone not connected. (TIMEOUT[14])
+Thu 2014/08/07 08:12:04 gammu-smsd[10032]: Error getting SMS status: No response in specified timeout. Probably phone not connected. (TIMEOUT[14])
+Thu 2014/08/07 08:12:42 gammu-smsd[10032]: Error getting SMS status: No response in specified timeout. Probably phone not connected. (TIMEOUT[14])
+Thu 2014/08/07 08:13:20 gammu-smsd[10032]: Error getting SMS status: No response in specified timeout. Probably phone not connected. (TIMEOUT[14])
+Thu 2014/08/07 08:13:58 gammu-smsd[10032]: Error getting SMS status: No response in specified timeout. Probably phone not connected. (TIMEOUT[14])
+Thu 2014/08/07 08:14:36 gammu-smsd[10032]: Error getting SMS status: No response in specified timeout. Probably phone not connected. (TIMEOUT[14])
+Thu 2014/08/07 08:15:14 gammu-smsd[10032]: Error getting SMS status: No response in specified timeout. Probably phone not connected. (TIMEOUT[14])
+Thu 2014/08/07 08:15:52 gammu-smsd[10032]: Error getting SMS status: No response in specified timeout. Probably phone not connected. (TIMEOUT[14])
+Thu 2014/08/07 08:16:30 gammu-smsd[10032]: Error getting SMS status: No response in specified timeout. Probably phone not connected. (TIMEOUT[14])
+Thu 2014/08/07 08:17:08 gammu-smsd[10032]: Error getting SMS status: No response in specified timeout. Probably phone not connected. (TIMEOUT[14])
+Thu 2014/08/07 08:17:46 gammu-smsd[10032]: Error getting SMS status: No response in specified timeout. Probably phone not connected. (TIMEOUT[14])
+Thu 2014/08/07 08:18:24 gammu-smsd[10032]: Error getting SMS status: No response in specified timeout. Probably phone not connected. (TIMEOUT[14])
+Thu 2014/08/07 08:19:02 gammu-smsd[10032]: Error getting SMS status: No response in specified timeout. Probably phone not connected. (TIMEOUT[14])
+Thu 2014/08/07 08:19:40 gammu-smsd[10032]: Error getting SMS status: No response in specified timeout. Probably phone not connected. (TIMEOUT[14])
+Thu 2014/08/07 08:20:18 gammu-smsd[10032]: Error getting SMS status: No response in specified timeout. Probably phone not connected. (TIMEOUT[14])
+Thu 2014/08/07 08:20:56 gammu-smsd[10032]: Error getting SMS status: No response in specified timeout. Probably phone not connected. (TIMEOUT[14])
+Thu 2014/08/07 08:21:34 gammu-smsd[10032]: Error getting SMS status: No response in specified timeout. Probably phone not connected. (TIMEOUT[14])
+Thu 2014/08/07 08:22:12 gammu-smsd[10032]: Error getting SMS status: No response in specified timeout. Probably phone not connected. (TIMEOUT[14])
+Thu 2014/08/07 08:22:50 gammu-smsd[10032]: Error getting SMS status: No response in specified timeout. Probably phone not connected. (TIMEOUT[14])
+Thu 2014/08/07 08:23:28 gammu-smsd[10032]: Error getting SMS status: No response in specified timeout. Probably phone not connected. (TIMEOUT[14])
+Thu 2014/08/07 08:24:06 gammu-smsd[10032]: Error getting SMS status: No response in specified timeout. Probably phone not connected. (TIMEOUT[14])
+Thu 2014/08/07 08:24:44 gammu-smsd[10032]: Error getting SMS status: No response in specified timeout. Probably phone not connected. (TIMEOUT[14])
+Thu 2014/08/07 08:25:22 gammu-smsd[10032]: Error getting SMS status: No response in specified timeout. Probably phone not connected. (TIMEOUT[14])
+Thu 2014/08/07 08:26:00 gammu-smsd[10032]: Error getting SMS status: No response in specified timeout. Probably phone not connected. (TIMEOUT[14])
+Thu 2014/08/07 08:26:38 gammu-smsd[10032]: Error getting SMS status: No response in specified timeout. Probably phone not connected. (TIMEOUT[14])
+Thu 2014/08/07 08:27:16 gammu-smsd[10032]: Error getting SMS status: No response in specified timeout. Probably phone not connected. (TIMEOUT[14])
+Thu 2014/08/07 08:27:38 gammu-smsd[7408]: Warning: No PIN code in C:\xampp\htdocs\gammu\smsdrc1 file
+Thu 2014/08/07 08:27:38 gammu-smsd[7408]: Connected to Database: gammu on localhost
+Thu 2014/08/07 08:27:38 gammu-smsd[7408]: Created Windows RW shared memory at 003E0000
+Thu 2014/08/07 08:27:38 gammu-smsd[7408]: Starting phone communication...
+Thu 2014/08/07 08:27:38 gammu-smsd[7408]: Can't open device: Error opening device. Unknown, busy or no permissions. (DEVICEOPENERROR[2])
+Thu 2014/08/07 08:27:38 gammu-smsd[7408]: Failed to start SMSD, Error 32: The process cannot access the file because it is being used by another process.
+
+
+Thu 2014/08/07 08:27:42 gammu-smsd[1736]: Warning: No PIN code in C:\xampp\htdocs\gammu\smsdrc1 file
+Thu 2014/08/07 08:27:42 gammu-smsd[1736]: Connected to Database: gammu on localhost
+Thu 2014/08/07 08:27:42 gammu-smsd[1736]: Created Windows RW shared memory at 003C0000
+Thu 2014/08/07 08:27:42 gammu-smsd[1736]: Starting phone communication...
+Thu 2014/08/07 08:27:50 gammu-smsd[1736]: Communication established
+Thu 2014/08/07 08:28:01 gammu-smsd[1736]: Read 1 messages
+Thu 2014/08/07 08:28:41 gammu-smsd[1736]: Read 1 messages
+Thu 2014/08/07 08:46:06 gammu-smsd[1736]: Read 1 messages
+Thu 2014/08/07 11:23:57 gammu-smsd[1736]: Read 1 messages

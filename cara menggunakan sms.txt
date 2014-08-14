@@ -1,0 +1,46 @@
+hidupkan apache dan mysql di xampp
+
+letakkan folder gammu ke folder htdocs 
+
+ketikkan localhost/gammu 
+
+lalu pada langkah 1 buat data base dengan nama Database MySQL sembarang bila sudah lanjut ke langkah ke 2
+
+pada langkah ke 2 masukkan nama sembarang ke ID phone / modem 
+
+isikan port sesuai port modem cara check port modem control panel>phone and modem>klik pada tab modems 
+
+connection biarkan pada posisi at 115200
+
+klik simpan 
+
+lalu nanti di bawah akan muncul tabel sesuai dengan yang anda bat lalu klik check koneksi 
+
+bila muncul	
+Status Koneksi Phone/Modem 1
+
+Device               : com8:
+Manufacturer         : huawei
+Model                : unknown (E173)
+Firmware             : 11.126.29.00.76
+IMEI                 : 867749019944069
+SIM IMSI             : 510891534006350
+
+berarti setting yang anda buat sudah benar
+
+lalu klik buat services 
+
+lalu hidupkan services nya dengan cara  
+control panel > administrative tools > services 
+
+lalu cari services bernama  gammu SMSD services > lalu klik kanan pilih start
+
+lalu buka http://localhost/SMSgateway/indexauto.php untuk memulai sms autoreply nya 
+
+sms dengan format :
+untuk mendaftar : REG#NOMOR RW#Nama ex : REG#1#Nandana 
+untuk Unreg : Unreg#Nama ex : Unreg#Nandana 
+
+untuk sementara nomor untuk regristrasi masih menggunakan nomor hp biasa 
+ 
+
